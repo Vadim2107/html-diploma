@@ -124,8 +124,9 @@ body {
 }
 
 .news-img {
-  background-color: #eff6f1;
-  width: 380px;  
+  background-color: #f4f7f6;
+  width: 380px;
+  height: 260px;
 }
 
 .news-header {    
